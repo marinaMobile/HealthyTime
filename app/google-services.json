@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720415656334",
+    "project_id": "healthytime-43c17",
+    "storage_bucket": "healthytime-43c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720415656334:android:bae54cc2587d28559f7cdf",
+        "android_client_info": {
+          "package_name": "com.AgainstGravity.RecRoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720415656334-btavs66atui2s0rcku0n5qoe0081pcp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgKd8XPZgHRMPor7p8IadZtQ0OyO5mUII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720415656334-btavs66atui2s0rcku0n5qoe0081pcp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
